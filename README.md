@@ -53,61 +53,50 @@
 
 <h2> Profile Stats <img width ='18px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'> </h2>
 
-<h2> 🏆 Achievements & Certifications </h2>
+<h2> 🏆 Milestones & Achievements </h2>
 
-<div align="left">
-  <div style="display: flex; align-items: center; margin-bottom: 20px;">
-    <div style="background: linear-gradient(45deg, #FF512F, #F09819); padding: 20px; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
-      <h3>🎓 Academic Excellence</h3>
-      <div style="padding: 10px; background: rgba(255,255,255,0.1); border-radius: 5px; margin-top: 10px;">
-        <strong>🌟 Final Year Project Recognition</strong>
-        <br/>
-        <span>LungsVision: Lung Cancer Detection Using Deep Learning</span>
-        <br/>
-        <span>FET, University of Sindh, Jamshoro</span>
-      </div>
-    </div>
-  </div>
-
-  <div style="display: flex; align-items: center; margin-bottom: 20px;">
-    <div style="background: linear-gradient(45deg, #1DA1F2, #0E71C8); padding: 20px; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
-      <h3>💼 Professional Certifications</h3>
-      <div style="padding: 10px; background: rgba(255,255,255,0.1); border-radius: 5px; margin-top: 10px;">
-        <strong>🔷 LinkedIn Certifications</strong>
-        <br/>
-        <span>• Dart Clean Code: Writing High-Efficiency Programs</span>
-        <br/>
-        <span>• Advanced Software Architecture & Design Patterns</span>
-      </div>
-    </div>
-  </div>
-
-  <div style="display: flex; align-items: center;">
-    <div style="background: linear-gradient(45deg, #56CCF2, #2F80ED); padding: 20px; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
-      <h3>📱 Mobile Development</h3>
-      <div style="padding: 10px; background: rgba(255,255,255,0.1); border-radius: 5px; margin-top: 10px;">
-        <strong>🎯 Coursera Professional Certificate</strong>
-        <br/>
-        <span>Flutter Mobile App Development Specialization</span>
-        <br/>
-        <span>Completed with Distinction</span>
-      </div>
-    </div>
-  </div>
+<div align="center">
+  <img width="800" height="auto" src="https://github-profile-trophy.vercel.app/?username=naeemahmedpnl&row=1&column=7&theme=darkhub&margin-w=15&no-frame=true"/>
 </div>
 
 <br/>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=naeemahmedpnl&theme=darkhub&no-frame=true&row=1&column=7" alt="trophy"/>
-  </a>
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img width="60" src="https://img.icons8.com/nolan/64/medal.png"/>
+        <br/>
+        <strong>Academic Excellence</strong>
+        <br/>
+        Final Year Project Recognition
+        <br/>
+        FET, University of Sindh
+      </td>
+      <td align="center">
+        <img width="60" src="https://img.icons8.com/nolan/64/linkedin.png"/>
+        <br/>
+        <strong>2x LinkedIn Certificates</strong>
+        <br/>
+        Dart Clean Code
+        <br/>
+        Software Architecture
+      </td>
+      <td align="center">
+        <img width="60" src="https://img.icons8.com/nolan/64/programming.png"/>
+        <br/>
+        <strong>Coursera Certification</strong>
+        <br/>
+        Flutter Development
+        <br/>
+        With Distinction
+      </td>
+    </tr>
+  </table>
+</div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/🏆%20Projects%20Completed-25+-blue?style=for-the-badge&labelColor=000000" alt="Projects"/>
-  <img src="https://img.shields.io/badge/🌟%20Total%20Commits-500+-orange?style=for-the-badge&labelColor=000000" alt="Commits"/>
-  <img src="https://img.shields.io/badge/📱%20Apps%20Published-10+-green?style=for-the-badge&labelColor=000000" alt="Apps"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=naeemahmedpnl&show_icons=true&count_private=true&hide_border=true&title_color=70A5FD&icon_color=70A5FD&text_color=FFFFFF&bg_color=0D1117" alt="GitHub Stats" />
 </div>
 
 <div align="center">
