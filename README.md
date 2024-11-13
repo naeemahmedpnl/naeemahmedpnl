@@ -58,8 +58,43 @@
   <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=naeemahmedpnl&theme=material-palenight&hide_border=true&fire=C77800&ring=7C2AE8&background=1F222E" />
 </p>
 
-<h2> Achievements 🏆 </h2>
+<h2> 🏆 Achievements & Certifications 🎓 </h2>
 
-- Final Year Project Recognition at FET, University of Sindh
-- 2x LinkedIn Professional Certificates in Dart Clean Code
-- Coursera Professional Certificate in Flutter Mobile App Development
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img width="70px" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-achievement-achievements-flaticons-lineal-color-flat-icons.png" alt="achievement"/>
+      </td>
+      <td>
+        <strong>Final Year Project Recognition</strong><br>
+        🌟 LungsVision: Lung Cancer Detection Using Deep Learning<br>
+        📍 FET, University of Sindh, Jamshoro
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img width="70px" src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-linkedin-social-media-flaticons-flat-flat-icons.png" alt="linkedin"/>
+      </td>
+      <td>
+        <strong>2x LinkedIn Professional Certificates</strong><br>
+        💻 Dart Clean Code: Writing High-Efficiency Programs<br>
+        🔧 Advanced Software Architecture & Design Patterns
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img width="70px" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/64/000000/external-coursera-an-online-learning-platform-that-offers-massive-open-online-courses-logo-color-tal-revivo.png" alt="coursera"/>
+      </td>
+      <td>
+        <strong>Coursera Professional Certificate</strong><br>
+        📱 Flutter Mobile App Development Specialization<br>
+        🎯 Completed with Distinction
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=naeemahmedpnl&theme=dracula&row=1&column=6" alt="achievement-trophies"/>
+</div>
