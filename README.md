@@ -53,6 +53,10 @@
 
 <h2> Profile Stats <img width ='18px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'> </h2>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=naeemahmedpnl&show_icons=true&count_private=true&hide_border=true&title_color=70A5FD&icon_color=70A5FD&text_color=FFFFFF&bg_color=0D1117" alt="GitHub Stats" />
+</div>
+
 <h2> 🏆 Milestones & Achievements </h2>
 
 <div align="center">
@@ -65,7 +69,7 @@
   <table>
     <tr>
       <td align="center">
-        <img width="60" src="https://img.icons8.com/nolan/64/medal.png"/>
+        <img width="60" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-achievement-achievements-flaticons-lineal-color-flat-icons.png"/>
         <br/>
         <strong>Academic Excellence</strong>
         <br/>
@@ -95,9 +99,7 @@
   </table>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naeemahmedpnl&show_icons=true&count_private=true&hide_border=true&title_color=70A5FD&icon_color=70A5FD&text_color=FFFFFF&bg_color=0D1117" alt="GitHub Stats" />
-</div>
+
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=naeemahmedpnl&theme=dracula&row=1&column=6" alt="achievement-trophies"/>
