@@ -45,13 +45,22 @@
   <img height="45" alt="Naeem Ahmed | Instagram" src="https://user-images.githubusercontent.com/60597290/173852523-c34e15e4-dc3b-4c2a-a5a4-d460b96e4151.png" />
 </a>
 
-<h2> Notable Projects <img width ='18px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/flutter.svg'> </h2>
+<h2> Developer Wisdom <img width ='18px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/terminal.svg'> </h2>
 
-- **Hostel Booking App:** Full-stack Flutter application with Firebase backend, featuring dynamic interfaces and real-time updates.
-- **Ride Booking App:** Advanced mobile app with real-time tracking, Mapbox integration, and Stripe payments.
-- **Plants Selling App:** Production-level e-commerce solution delivered within tight deadlines.
-- **MovieMate:** Feature-rich movie browsing app using TMDB APIs and recommendation system.
-- **LungsVision:** Deep learning-based lung cancer detection system using CT scans.
+> "Code is like humor. When you have to explain it, it's bad." 
+>                                                   – Cory House
+
+> "Clean code always looks like it was written by someone who cares."
+>                                                   – Robert C. Martin
+
+> "First, solve the problem. Then, write the code."
+>                                                   – John Johnson
+
+> "In programming, the hard part isn't solving problems but deciding what problems to solve."
+>                                                   – Paul Graham
+
+> "Any fool can write code that a computer can understand. Good programmers write code that humans can understand."
+>                                                   – Martin Fowler
 
 <h2> Profile Stats <img width ='18px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'> </h2>
 
