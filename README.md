@@ -47,20 +47,8 @@
 
 <h2> Developer Wisdom <img width ='18px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/terminal.svg'> </h2>
 
-> "Code is like humor. When you have to explain it, it's bad." 
->                                                   – Cory House
-
-> "Clean code always looks like it was written by someone who cares."
->                                                   – Robert C. Martin
-
-> "First, solve the problem. Then, write the code."
->                                                   – John Johnson
-
-> "In programming, the hard part isn't solving problems but deciding what problems to solve."
->                                                   – Paul Graham
-
-> "Any fool can write code that a computer can understand. Good programmers write code that humans can understand."
->                                                   – Martin Fowler
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <h2> Profile Stats <img width ='18px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'> </h2>
 
