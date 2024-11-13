@@ -47,7 +47,7 @@
   </a>
 </p>
 
-<h2> ✍️ Random Dev Quote <img width ='18px' src ='https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical'> </h2>
+<h2> ✍️ Random Dev Quote </h2>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
