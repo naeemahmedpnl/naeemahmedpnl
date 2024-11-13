@@ -35,17 +35,19 @@
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px"> </h2>
 
-<a href="https://www.linkedin.com/in/naeemahmedpnl/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://www.facebook.com/naeem.haider.9277/">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-</a>
-<a href="https://www.instagram.com/naeemhaider72">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
+<p align="left">
+  <a href="https://www.linkedin.com/in/naeemahmedpnl/" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
+  </a>
+  <a href="https://www.facebook.com/naeem.haider.9277/" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/>
+  </a>
+  <a href="https://www.instagram.com/naeemhaider72" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>
+  </a>
+</p>
 
-<h2> ✍️ Random Dev Quote <img width ='18px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/terminal.svg'> </h2>
+<h2> ✍️ Random Dev Quote <img width ='18px' src ='https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical'> </h2>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
